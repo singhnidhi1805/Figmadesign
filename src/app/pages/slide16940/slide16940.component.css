@@ -1,0 +1,115 @@
+:host { 
+  display: contents; 
+}
+.slide16940-container {
+  min-height: 100vh;
+}
+.slide16940-slide16940 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(20, 25, 35, 1);
+}
+.slide16940-vector {
+  top: 35px;
+  left: -266px;
+  width: 3540px;
+  height: 1148px;
+  position: absolute;
+}
+.slide16940-textboxes {
+  top: 522px;
+  left: 721px;
+  width: 479px;
+  height: 55px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.slide16940-rectangle14 {
+  top: 0px;
+  left: 0px;
+  width: 479px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 12px;
+}
+.slide16940-nextbutton {
+  top: 609px;
+  left: 883px;
+  width: 155px;
+  height: 55px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.slide16940-rectangle141 {
+  top: 0px;
+  left: 0px;
+  width: 155px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 1.65625px;
+  border-radius: 43.4765625px;
+}
+.slide16940-text {
+  top: 13px;
+  left: -3px;
+  color: rgba(255, 255, 255, 1);
+  width: 161px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: 55 Roman;
+  text-align: center;
+  font-family: Neue Haas Grotesk Display Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.slide16940-font {
+  top: 415px;
+  left: 794px;
+  width: 343px;
+  height: 78px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.slide16940-text2 {
+  color: rgba(255, 255, 255, 1);
+  width: 343px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: 55 Roman;
+  text-align: left;
+  font-family: Neue Haas Grotesk Display Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

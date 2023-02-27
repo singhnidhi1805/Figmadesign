@@ -1,0 +1,43 @@
+:host { 
+  display: contents; 
+}
+.slide16936-container {
+  min-height: 100vh;
+}
+.slide16936-slide16936 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(20, 25, 35, 1);
+}
+.slide16936-vector {
+  top: -190px;
+  left: 187px;
+  width: 3540px;
+  height: 1148px;
+  position: absolute;
+}
+.slide16936-rectangle27 {
+  top: 356px;
+  left: 535px;
+  width: 850px;
+  height: 368px;
+  position: absolute;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 52.5px;
+}
+.slide16936-logo0111 {
+  top: 456px;
+  left: 724px;
+  width: 472px;
+  height: 168px;
+  position: absolute;
+  border-color: transparent;
+}
